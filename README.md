@@ -94,7 +94,7 @@ mutation {
 - **Search Employee by ID (Query)**
 ```graphql
 query {
-  getEmployeeByEid(id: "EMPLOYEE_ID") {
+  getEmployeeByEid(id: "67b18bacb7ea04eccd65a0f2") {
     id
     first_name
     last_name
