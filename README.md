@@ -105,7 +105,7 @@ query {
 ```
 
 ## Testing Instructions
-1. **Use Postman or GraphiQL** to test queries and mutations.
+1. **Use Postman or GraphiQL(I used GraphiQL because Postman won't run on my computer)** to test queries and mutations.
 2. **Ensure MongoDB Atlas is connected** before testing.
 3. **Take API response screenshots** for submission.
 
