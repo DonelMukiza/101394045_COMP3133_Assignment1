@@ -1,6 +1,6 @@
 # COMP3133 Assignment 1 - Employee Management System
 
-## 📌 Project Overview
+##  Project Overview
 This project is a **GraphQL-based Employee Management System** built with **Node.js, Express, Apollo Server, and MongoDB**. It allows users to sign up, log in, and manage employee records using GraphQL queries and mutations.
 
 ## Technologies Used
@@ -14,7 +14,7 @@ This project is a **GraphQL-based Employee Management System** built with **Node
 - **dotenv** - Environment variables
 - **GraphiQL** - API testing
 
-## 🚀 Installation & Setup
+## Installation & Setup
 ### ** Clone the Repository**
 ```bash
 clone https://github.com/your-github-username/101394045_COMP3133_Assignment1.git
